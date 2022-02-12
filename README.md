@@ -12,5 +12,4 @@ This program used to display all network interfaces in pc then it used to used t
        <li>TCP</li>
        <li>UDP</li>
 </ul>
-<br>
-this program is made by <a href ="https://github.com/jpcap/jpcap">jpcap library</a>
+This program is made by <a href ="https://github.com/jpcap/jpcap">jpcap library</a>
